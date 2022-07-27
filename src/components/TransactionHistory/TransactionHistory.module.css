@@ -1,0 +1,15 @@
+.transactionHistory{
+  background: rgb(255, 255, 255);
+}
+
+.transactionHistory th{
+  padding: 10px;
+  background: rgb(57, 189, 255);
+}
+.transactionHistory td{
+  padding: 10px;
+}
+
+.transactionHistory tr:nth-child(2n+1) {
+  background: rgba(0, 0, 0, 0.184);
+}
